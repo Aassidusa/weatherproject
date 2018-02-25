@@ -4,7 +4,7 @@
         <list>
             <mapping class="com.aassidusa.weatherproject.db.Province"/>
             <mapping class="com.aassidusa.weatherproject.db.City"/>
-            <mapping class="com.aassidusa.weatherproject.db.City"/>
+            <mapping class="com.aassidusa.weatherproject.db.County"/>
         </list>
     </version>
 </litepal>
