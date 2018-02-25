@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="weather_data"/>
+    <version value="1">
+        <list>
+            <mapping class="com.aassidusa.weatherproject.db.Province"/>
+            <mapping class="com.aassidusa.weatherproject.db.City"/>
+            <mapping class="com.aassidusa.weatherproject.db.City"/>
+        </list>
+    </version>
+</litepal>
